@@ -1519,31 +1519,31 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/33005
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="Sports",beIN SPORTS HD  
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports+", beIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports", beIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODIwMmU5ODEtMmJjZS0zYzBjLWJhMGMtNDE5ODVlYmQ0MDY4
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports+",beIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",beIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODIwMmU5ODEtMmJjZS0zYzBjLWJhMGMtNDE5ODVlYmQ0MDY4
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports+",beIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports",beIN SPORTS 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODIwMmU5ODEtMmJjZS0zYzBjLWJhMGMtNDE5ODVlYmQ0MDY4
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Sports+",beIN SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Sports",beIN SPORTS 4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODIwMmU5ODEtMmJjZS0zYzBjLWJhMGMtNDE5ODVlYmQ0MDY4
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="Sports+",beIN SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="Sports",beIN SPORTS 5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODIwMmU5ODEtMmJjZS0zYzBjLWJhMGMtNDE5ODVlYmQ0MDY4
