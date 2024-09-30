@@ -881,7 +881,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids", mentari tv 
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="IndiKids.id" tvg-name="IndiKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/1200px-Fun_Planet.png" group-title="Kids", Fun pLaNeT
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%28c99739b1-0748-4a2a-b586-2501837adf20%29/index.m3u8
@@ -1012,7 +1012,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png", FLiK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/CbfrjO7.png", imc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
