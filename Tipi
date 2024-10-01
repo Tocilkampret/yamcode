@@ -1817,10 +1817,10 @@ https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehd
 
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Sports+", ARENA SPORT 1
-
+https://webhdrunns.mizhls.ru/lb/premium429/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Sports+", ARENA SPORT 2
-
+https://webhdrunns.mizhls.ru/lb/premium430/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports+", ARENA SPORT 3
 
@@ -1902,6 +1902,12 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Sports+", ABU DHABI SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="Sports+", ABU DHABI SPORTS 1 PREMIUM
+https://webhdrunns.mizhls.ru/lb/premium609/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="Sports+", ABU DHABI SPORTS 2 PREMIUM
+https://webhdrunns.mizhls.ru/lb/premium610/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 1" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports+",DUBAI SPORTS 1
 /https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b4000000.m3u8
