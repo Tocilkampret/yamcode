@@ -647,16 +647,14 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png", Discovery 
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/foLICwL.png",  Discovery asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uweOMvbfFMqXv/W4rujK9Q", "kid":"J8igjqvNS7yI7aNpDL9qrw" } ], "type":"temporary" }
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/foLICwL.png", Discovery asia 
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png", animal planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png", animal planet 
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-id="Animal Planet HD World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", animal planet
@@ -703,10 +701,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbb
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5eb95d63b270fc0007c465e6/colorLogoPNG.png" group-title="Knowledge",PEOPLE ARE AWESOME
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
-#EXTINF:0 tvg-name="DMAX UK" group-title="Knowledge" tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png", DMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
+#EXTINF:0 tvg-name="DMAX UK" group-title="Knowledge" tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png", DMAX
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 /https://varun-iptv.netlify.app/m3u/DMAX.m3u8
@@ -1028,7 +1025,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://i.imgur.com/KK1ipNk.png" group-title="Movies", Citra Bioskop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
