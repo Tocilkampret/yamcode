@@ -1239,12 +1239,17 @@ XxxX
 https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-name="" tvg-id="HITS Now" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/HITS_Now.png/revision/latest/scale-to-width-down/200?cb=20240509083708&path-prefix=vi" group-title="Entertainment", HITS NOW
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
+
+/#KODIPROP:inputstream=inputstream.ffmpegdirect
+/#KODIPROP:mimetype=application/x-mpegURL
+/#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+/#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+/#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+/https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
 /#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YdvrCdk/UPLOAD-1676624938.png" group-title="Entertainment", HITS NOW 
 /#EXTVLCOPT:http-referrer=https://www.indihometv.com/
