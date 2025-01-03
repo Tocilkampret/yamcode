@@ -963,13 +963,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-/#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png", FLiK 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png", FLiK 
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MaxStream.m3u8
 
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png", FLiK 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+/#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png", FLiK 
+/#KODIPROP:inputstream.adaptive.license_type=clearkey
+/#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+/https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/CbfrjO7.png", imc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1015,8 +1015,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 /https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies", CELESTIAL MOVIES 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
+https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 /https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
