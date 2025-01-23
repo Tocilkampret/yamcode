@@ -787,13 +787,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456010
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids", DISNEY CHANNEL
-
+http://212.102.60.231/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids", DISNEY JUNIOR
-https://fl2.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.m3u8
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD
- 
+http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png", CBeebies 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
