@@ -668,17 +668,13 @@ https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/E84jnP8.png", nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
-/https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODIwMmU5ODEtMmJjZS0zYzBjLWJhMGMtNDE5ODVlYmQ0MDY4
+/#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/E84jnP8.png", nickelodeon
+/#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+/#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+/#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODIwMmU5ODEtMmJjZS0zYzBjLWJhMGMtNDE5ODVlYmQ0MDY4
 /https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="NickEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids", nickelodeon 🇺🇸
+#EXTINF:-1 tvg-id="NickEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids", nickelodeon
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
