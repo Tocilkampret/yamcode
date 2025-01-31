@@ -32,12 +32,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 /https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV Nasional", NET. 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 /#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Nasional", antv 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -131,7 +126,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="TV Nasional", INDONESIANA TV
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viun5hj.png" group-title="TV Nasional", nusantara tv
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -1923,16 +1918,16 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/vEpjLnj.png", J SPORTS 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/g1GLVH2.png", J SPORTS 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/xdI361E.png", J SPORTS 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/fBcyZNL.png", J SPORTS 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9LYrt6.png" group-title="Sports+", PLAY SPORTS 1
@@ -1958,7 +1953,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODIwMmU5ODEtMmJjZS0zYzBjLWJhMGMtNDE5ODVlYmQ0MDY4
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
-/http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -1967,11 +1961,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5wBRfF.png" group-title="Music", MTV 00S
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a3d9d4bfa5185516b38e082478f027a3":"508b827a7c12a3c66c2707420a60f2a7","60d7c8bf82e65846b63fe754b6aab293":"070a935db9627a0cf39860ea58905b10","e3723805608f5fc2a443e98577fae7c3":"747e135724d11fc641248527ce70990b"}
-#https://tvup-live.secure.footprint.net/vh1/vh1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="Music", MTV Live
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
